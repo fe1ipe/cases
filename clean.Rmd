@@ -1,3 +1,5 @@
 head(data)
 
 dim(data)
+
+plot(data)
